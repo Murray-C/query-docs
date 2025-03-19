@@ -20,7 +20,7 @@ A date.
 
 ## Remarks
 
-- UTCTODAY returns the time value 12:00:00 PM for all dates.
+- UTCTODAY returns the time value 12:00:00 AM (midnight) for all dates.
 
 - The UTCNOW function is similar but returns the exact time and date.
 
